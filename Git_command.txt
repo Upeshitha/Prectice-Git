@@ -1,0 +1,7 @@
+git help
+$ git --help commit
+
+git config --global user.name "Eranda Upeshitha"
+git config --global user.email "upeshitha123@gmail.com"
+
+
